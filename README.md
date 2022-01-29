@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @validragulete
 - 👀 I’m interested in Web developing and Networking
-- 🌱 I’m currently learning CCNA 2, Java programming and JavaScript.
-- 💞️ I’m looking to collaborate on Web Design, Web programming and Networking(Routing and switching, security and Wireless)
+- 🌱 I’m currently learning CCNA 2 and Java
+- 💞️ I’m looking to collaborate on Web Design, Web programming and Networking(Routing and switching, security and Wireless), Front-end.
 - 📫 How to reach me: Via linkedin, my profile is in my bio and here -> https://www.linkedin.com/in/valerian-nicolae-dragulete/.
 
 <!---
